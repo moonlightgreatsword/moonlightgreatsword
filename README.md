@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name's Michael. I'm a software engineer just getting started out. I'm currently learning HTML, CSS, and JavaScript. I love video games, music, cooking, cocktails, and my dog.
+My name's Michael. I'm a software engineer working with HTML, CSS, Javascript, Express, EJS and React. I love video games, music, cooking, cocktails, and my dog.
 
 Hope to see you again once I have more to flesh out my profile! Till then, stay tuned...
 
